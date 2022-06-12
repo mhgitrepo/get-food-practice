@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Proejct Live url: get-food-p.netlify.app
+Proejct Live url: https://get-food-p.netlify.app/
 
 ## Available Scripts
 
