@@ -1,0 +1,13 @@
+.card-single{
+    width: 20rem; 
+    box-shadow: 2px 7px 17px #888888;
+}
+.food-title{
+    font-size: 20px;
+}
+.food-origin{
+    font-size: 18px;
+}
+.f-w-icon{
+    margin-left: 10px;
+}

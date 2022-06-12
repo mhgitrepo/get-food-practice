@@ -1,0 +1,25 @@
+.meals-container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    background-color: azure;
+}
+.card-container{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 30px;
+    margin-top: 20px;
+    padding: 40px;
+}
+.food-summary{
+    background-color: rgb(54, 137, 151);
+    color: rgb(255, 255, 255);
+}
+
+
+
+@media screen and (max-width: 1100px) {
+    .card-container{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
